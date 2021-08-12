@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/sazdg/do-your-math.git/static/css/main.69093820.chunk.css",
-    "main.js": "/sazdg/do-your-math.git/static/js/main.6c1ce6cd.chunk.js",
-    "main.js.map": "/sazdg/do-your-math.git/static/js/main.6c1ce6cd.chunk.js.map",
-    "runtime-main.js": "/sazdg/do-your-math.git/static/js/runtime-main.bce8e85b.js",
-    "runtime-main.js.map": "/sazdg/do-your-math.git/static/js/runtime-main.bce8e85b.js.map",
-    "static/js/2.847d79c8.chunk.js": "/sazdg/do-your-math.git/static/js/2.847d79c8.chunk.js",
-    "static/js/2.847d79c8.chunk.js.map": "/sazdg/do-your-math.git/static/js/2.847d79c8.chunk.js.map",
-    "static/js/3.88d061be.chunk.js": "/sazdg/do-your-math.git/static/js/3.88d061be.chunk.js",
-    "static/js/3.88d061be.chunk.js.map": "/sazdg/do-your-math.git/static/js/3.88d061be.chunk.js.map",
-    "index.html": "/sazdg/do-your-math.git/index.html",
-    "static/css/main.69093820.chunk.css.map": "/sazdg/do-your-math.git/static/css/main.69093820.chunk.css.map",
-    "static/js/2.847d79c8.chunk.js.LICENSE.txt": "/sazdg/do-your-math.git/static/js/2.847d79c8.chunk.js.LICENSE.txt"
+    "main.css": "/sazdg/do-your-math/static/css/main.69093820.chunk.css",
+    "main.js": "/sazdg/do-your-math/static/js/main.6c1ce6cd.chunk.js",
+    "main.js.map": "/sazdg/do-your-math/static/js/main.6c1ce6cd.chunk.js.map",
+    "runtime-main.js": "/sazdg/do-your-math/static/js/runtime-main.05e902d3.js",
+    "runtime-main.js.map": "/sazdg/do-your-math/static/js/runtime-main.05e902d3.js.map",
+    "static/js/2.847d79c8.chunk.js": "/sazdg/do-your-math/static/js/2.847d79c8.chunk.js",
+    "static/js/2.847d79c8.chunk.js.map": "/sazdg/do-your-math/static/js/2.847d79c8.chunk.js.map",
+    "static/js/3.88d061be.chunk.js": "/sazdg/do-your-math/static/js/3.88d061be.chunk.js",
+    "static/js/3.88d061be.chunk.js.map": "/sazdg/do-your-math/static/js/3.88d061be.chunk.js.map",
+    "index.html": "/sazdg/do-your-math/index.html",
+    "static/css/main.69093820.chunk.css.map": "/sazdg/do-your-math/static/css/main.69093820.chunk.css.map",
+    "static/js/2.847d79c8.chunk.js.LICENSE.txt": "/sazdg/do-your-math/static/js/2.847d79c8.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.bce8e85b.js",
+    "static/js/runtime-main.05e902d3.js",
     "static/js/2.847d79c8.chunk.js",
     "static/css/main.69093820.chunk.css",
     "static/js/main.6c1ce6cd.chunk.js"
