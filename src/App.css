@@ -2,6 +2,14 @@
   margin: 25px;
 }
 
+@media only screen and (min-width: 700px){
+  .Corpo {
+    margin-right: 35%;
+    margin-left: 35%;
+  }
+  
+}
+
 .Title {
   background-color: cornflowerblue;
   padding: 20px;
@@ -23,6 +31,7 @@
 
 .Footer {
   background-color: cornflowerblue;
+  color: #000;
   bottom: 0;
   width: 100%;
   position: static;
@@ -54,6 +63,7 @@ button {
   background-color: khaki;
   width: 45%;
   font-size: 15px;
+  cursor: cell;
 }
 
 .Button {
