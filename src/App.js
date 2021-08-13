@@ -64,7 +64,7 @@ function App() {
         <Output title={'sell total USDT'} output={sellTotal} />
         <Output title={'% change'} output={percent} />
         <Output title={'gains USDT'} output={gains} />
-        <Button label="Reset" click={Refresh} callName="Refresh" />
+        <Button label="Reset" click={Refresh} callName="Refreshhh" />
       </div>
 
       <Footer />
