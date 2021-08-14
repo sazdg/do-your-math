@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/do-your-math/static/css/main.a8a8a8c3.chunk.css",
+    "main.css": "/do-your-math/static/css/main.1d73558e.chunk.css",
     "main.js": "/do-your-math/static/js/main.87d08adc.chunk.js",
     "main.js.map": "/do-your-math/static/js/main.87d08adc.chunk.js.map",
     "runtime-main.js": "/do-your-math/static/js/runtime-main.7408db55.js",
@@ -10,13 +10,13 @@
     "static/js/3.88d061be.chunk.js": "/do-your-math/static/js/3.88d061be.chunk.js",
     "static/js/3.88d061be.chunk.js.map": "/do-your-math/static/js/3.88d061be.chunk.js.map",
     "index.html": "/do-your-math/index.html",
-    "static/css/main.a8a8a8c3.chunk.css.map": "/do-your-math/static/css/main.a8a8a8c3.chunk.css.map",
+    "static/css/main.1d73558e.chunk.css.map": "/do-your-math/static/css/main.1d73558e.chunk.css.map",
     "static/js/2.847d79c8.chunk.js.LICENSE.txt": "/do-your-math/static/js/2.847d79c8.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.7408db55.js",
     "static/js/2.847d79c8.chunk.js",
-    "static/css/main.a8a8a8c3.chunk.css",
+    "static/css/main.1d73558e.chunk.css",
     "static/js/main.87d08adc.chunk.js"
   ]
 }
