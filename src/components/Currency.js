@@ -5,9 +5,9 @@ class Currency extends Component {
     render() {
         return (
             <div className="Currency">
-                <span>💸💸💸 </span>
+                <span>💎💎💎</span>
                 <input type="text" style={{width: '8rem'}}/>
-                <span>💸💸💸 </span>
+                <span>💎💎💎</span>
             </div>
         )
     }
