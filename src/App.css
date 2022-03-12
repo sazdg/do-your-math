@@ -23,7 +23,7 @@ body{
 
 .Currency {
   font-size: 15px;
-  padding: 3%;
+  padding: 1rem 0;
   display: inline-flex;
 }
 
@@ -37,8 +37,11 @@ body{
 .Footer {
   background-color: #3F3F3F;
   color: #FFDF6C;
+  position: fixed;
   bottom: 0;
-  padding: 10%;
+  left: 0;
+  width: 100%;
+  padding: 2rem 0;
   text-align: center;
   font-size: 15px;
   margin-top: 15px;
